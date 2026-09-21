@@ -135,7 +135,7 @@ This project was tested manually across all core flows - authentication, booking
 ![Login screen](screenshots/01-login.png)
 
 **Fraud detection - duplicate booking blocked**
-![R01 duplicate booking blocked dialog](screenshots/11-r01-blocked.png)
+![R01 duplicate booking blocked dialog](screenshots/16-r01-blocked.png)
 
 See [SCREENSHOTS.md](SCREENSHOTS.md) for the full walkthrough of every screen.
 
