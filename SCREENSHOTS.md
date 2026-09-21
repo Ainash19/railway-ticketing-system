@@ -48,13 +48,13 @@ Full walkthrough of every screen in the Railway Ticketing & Fraud Detection Syst
 ![No results](screenshots/15-no-results.png)
 
 ## Fraud Detection
-### R01 — Duplicate booking blocked
+### R01: Duplicate booking blocked
 ![R01 blocked](screenshots/16-r01-blocked.png)
 
-### R02 — Rapid booking blocked
+### R02: Rapid booking blocked
 ![R02 blocked](screenshots/17-r02-blocked.png)
 
-### R03 — Excessive cancellations flagged
+### R03: Excessive cancellations flagged
 ![R03 flagged](screenshots/18-r03-flagged.png)
 
 ## My Bookings
@@ -72,8 +72,8 @@ Full walkthrough of every screen in the Railway Ticketing & Fraud Detection Syst
 ### Admin dashboard with alerts
 ![Admin dashboard](screenshots/22-admin-dashboard.png)
 
-### All alerts — full list
+### All alerts: full list
 ![All alerts](screenshots/23-admin-alerts-all.png)
 
-### All alerts — unreviewed
+### All alerts: unreviewed
 ![All alerts unreviewed](screenshots/24-admin-alerts-unreviewed.png)
