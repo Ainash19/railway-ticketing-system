@@ -1,0 +1,47 @@
+# ===== Java =====
+*.class
+*.jar
+!lib/*.jar
+target/
+build/
+
+# ===== Eclipse =====
+.metadata/
+bin/
+.settings/
+.classpath
+.project
+.factorypath
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+*.iws
+out/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== NetBeans =====
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# ===== SQLite databases (real/working data — never commit) =====
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# DB Browser for SQLite project files (can embed local paths)
+*.sqbpro
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
